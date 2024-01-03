@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Felipe
-
+## 4th year Computer & Systems Engineering student at Universidad de Los Andes, Colombia
+#🌱 I’m currently learning React-Native & Data Science Oriented Tools
+#📫 How to reach me: nklopstock@gmail.com
 <!--
 **Felipe34515/Felipe34515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
