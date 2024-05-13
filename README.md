@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe34515&layout=compact&theme=algolia&langs_count=8&card_width=320" alt="felipe34515" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe34515&layout=compact&theme=algolia&langs_count=8&card_width=320" alt="felipe34515" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe34515&show_icons=true&theme=algolia" alt="felipe34515" /></p>
 
 
 
