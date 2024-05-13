@@ -24,16 +24,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe34515&label=Profile%20views&color=0e75b6&style=flat" alt="felipe34515" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe34515&show_icons=true&locale=en&layout=compact" alt="felipe34515" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe34515&layout=compact&theme=algolia&langs_count=8&card_width=320" alt="felipe34515" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe34515&show_icons=true&locale=en" alt="felipe34515" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe34515&layout=compact&theme=algolia&langs_count=8&card_width=320" alt="felipe34515" /></p>
 
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/feliperuedarivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-rueda-rivera-9a8107160/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/feliperuedarivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/feliperuedarivera" height="30" width="40" /></a>
 </p>
 <h3>📫 feliperuedarivera10@gmail.com</h3>
 <h3>📞 +57 3118733432</h3>
