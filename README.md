@@ -22,11 +22,11 @@
 
   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe34515&label=Profile%20views&color=0e75b6&style=flat" alt="felipe34515" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Feru34&label=Profile%20views&color=0e75b6&style=flat" alt="Feru34" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe34515&layout=compact&theme=algolia&langs_count=8&card_width=320" alt="felipe34515" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Feru34&layout=compact&theme=algolia&langs_count=8&card_width=320" alt="Feru34" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe34515&show_icons=true&theme=algolia" alt="felipe34515" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Feru34&show_icons=true&theme=algolia" alt="Feru34" /></p>
 
 
 
@@ -44,6 +44,6 @@
 
 
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe34515&" alt="felipe34515" /></p>-->
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Feru34&" alt="Feru34" /></p>-->
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipe34515" alt="felipe34515" /></a> </p> -->
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Feru34" alt="Feru34" /></a> </p> -->
