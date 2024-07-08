@@ -23,9 +23,6 @@
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Feru34&label=Profile%20views&color=0e75b6&style=flat" alt="Feru34" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Feru34&layout=compact&theme=algolia&langs_count=8&card_width=320" alt="Feru34" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Feru34&show_icons=true&theme=algolia" alt="Feru34" /></p>
 
 
