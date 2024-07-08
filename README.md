@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">A passionate frontend developer and Big data from Colombia</h3>
+<h3 align="center">A passionate Web developer and Big data from Colombia</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -32,9 +32,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
+<p align="left">
 <a href="https://www.linkedin.com/in/feliperuedarivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p> -->
+</p>
 <h3>📫 feliperuedarivera10@gmail.com</h3>
 <h3>📞 +57 3118733432</h3>
 
