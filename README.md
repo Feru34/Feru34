@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">A passionate Web developer and data analyst from Colombia</h3>
+<h3 align="center">A passionate Web developer and Data analyst from Colombia</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
